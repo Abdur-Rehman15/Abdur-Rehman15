@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
+<h1 align="center">Hi there👋</h1>
 <h3 align="center">💻 Full Stack Developer | Problem Solver</h3>
 
 <p align="center">

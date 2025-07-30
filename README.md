@@ -1,13 +1,18 @@
-<h1 align="center">Hi there👋</h1>
+<h1 align="center">
+  Hi there 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align:middle;" alt="waving-hand" />
+</h1>
+
 <h3 align="center">💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫</h3>
 
 <p align="center">
   Passionate about building scalable web apps, clean APIs, and solving real world problems through code.
 </p>
 
+
 ## 🚀 Tech Stack
 
-### 🧩 Frontend
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />

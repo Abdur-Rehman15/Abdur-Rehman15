@@ -1,14 +1,11 @@
 <h1 align="center">
-  Hi there 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align:middle;" alt="waving-hand" />
+  Hi there&nbsp;
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving-hand" />
 </h1>
 
-<h3 align="center">💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐞𝐫</h3>
-
-<p align="center">
-  Passionate about building scalable web apps, clean APIs, and solving real world problems through code.
-</p>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=0&center=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Code.+Deploy.+Impact." />
+</h3>
 
 ## 🚀 Tech Stack
 

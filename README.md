@@ -74,6 +74,15 @@
   </a>
 </p>
 
-<p align="center">
-  <i>Thanks for stopping by!</i>
-</p>
+<br>
+<details>
+  <summary><strong>👀 A secret message for curious devs...</strong></summary>
+  <br />
+
+  <pre align="center">
+<span style="color: #39FF14;">console.log("Let's build something meaningful");
+  </pre>
+
+
+</details>
+

@@ -9,7 +9,7 @@
 
 ## Technologies I work with
 
-
+<div align="center">
 <table>
 <tr>
 
@@ -74,11 +74,12 @@
 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="MongoDB" />
-<br>M
+<br>C++
 </td>
 
 </tr>
 </table>
+</div>
 
 ## Certifications
 
@@ -126,23 +127,23 @@
       <!-- Text Row -->
       <td align="center" valign="top">
         June 2025 <br/>
-        <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/1ZDKVOF9UP21">Credential</a><br/>
       </td>
       <td align="center" valign="top">
         June 2025 <br/>
-        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/records/BBLO03O4APSF">Credential</a><br/>
       </td>
       <td align="center" valign="top">
         June 2025 <br/>
-        <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/records/MCD826RGCNV2">Credential</a><br/>
       </td>
       <td align="center" valign="top">
         June 2025 <br/>
-        <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/records/E6EJOKTMZVV5">Credential</a><br/>
       </td>
       <td align="center" valign="top">
         June 2025 <br/>
-        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/verify/89P7HFI2TS0K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">Credential</a><br/>
       </td>
     </tr>
   </table>
@@ -194,23 +195,23 @@
       <!-- Text Row -->
       <td align="center" valign="top">
         Feb 2026 <br/>
-        <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/9YNFJCGFDNAI">Credential</a><br/>
       </td>
       <td align="center" valign="top">
         Feb 2026 <br/>
-        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/records/GN9KV30HCHRZ">Credential</a><br/>
       </td>
       <td align="center" valign="top">
         Feb 2026 <br/>
-        <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/records/E1RW43VAAZ1L">Credential</a><br/>
       </td>
       <td align="center" valign="top">
         Feb 2026 <br/>
-        <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/records/S95IH3UCDTTY">Credential</a><br/>
       </td>
       <td align="center" valign="top">
         Feb 2026 <br/>
-        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">Credential</a><br/>
+        <a href="https://www.coursera.org/account/accomplishments/records/WZWSVSO5WOAR">Credential</a><br/>
       </td>
     </tr>
   </table>
@@ -229,25 +230,24 @@
 
 
 
-## 🧠 LeetCode Performance
+## LeetCode Performance
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/AbdurRehman_15?theme=dark&font=Karla&ext=contest" />
 </p>
 
+<h2 align="center">Let's Connect</h2>
+<br>
 
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/abdurrehman887" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF" />
+<p align="center">
+  <a href="mailto:abdurrehman.fullstack@gmail.com" style="display:inline-block; margin-right:30px;">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" style="display:block;"/>
   </a>
-  <a href="mailto:abdur.rehman8872@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF" />
+&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abdurrehman887" style="display:inline-block; margin-left:30px;">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="60" style="display:block;"/>
   </a>
 </p>
-
-<br>
 <details>
   <summary><strong>👀 A secret message for curious devs...</strong></summary>
   <br />
@@ -258,4 +258,5 @@
 
 
 </details>
+
 

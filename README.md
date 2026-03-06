@@ -82,8 +82,8 @@
 
 ## Certifications
 
-<!-- Cloud Fundamentals Certifications -->
-<h2 align="center">🎓 My Multi-Cloud Certifications</h2>
+<!-- Full Stack Certifications -->
+<h2 align="center">Full Stack Certifications</h2>
 
 <div align="center">
   <table style="width:100%; table-layout:fixed;">
@@ -97,51 +97,119 @@
     <tr>
       <!-- Icon Row -->
       <td align="center">
-        <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">
-          <img src="./badges/aws-cloud-practitioner.png" alt="AWS Cloud Practitioner" style="width:120px; max-width:100%; height:auto;" />
+        <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/1ZDKVOF9UP21">
+          <img src="./badges/fd_badge.png" alt="Full Stack Software Developer Professional Certificate" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
       <td align="center">
-        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">
-          <img src="./badges/azure-az900.png" alt="Microsoft Azure Fundamentals (AZ-900)" style="width:120px; max-width:100%; height:auto;" />
+        <a href="https://www.coursera.org/account/accomplishments/records/BBLO03O4APSF">
+          <img src="./badges/python_badge.png" alt="Python for AI, DS, and Dev" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">
-          <img src="./badges/cloud-digital-leader.png" alt="Google Cloud Digital Leader" style="width:120px; max-width:100%; height:auto;" />
+        <a href="https://www.coursera.org/account/accomplishments/records/MCD826RGCNV2">
+          <img src="./badges/sql_badge.png" alt="Django App Dev with SQL and Databases" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">
-          <img src="./badges/comptia-cloud-essentials.png" alt="CompTIA Cloud Essentials+" style="width:120px; max-width:100%; height:auto;" />
+        <a href="https://www.coursera.org/account/accomplishments/records/E6EJOKTMZVV5">
+          <img src="./badges/kubernetes_badge.png" alt="Docker, Kubernetes, OpenShift" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
       <td align="center">
-        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">
-          <img src="./badges/Oracle Cloud Infrastructure 2025 Certified Foundations Associate.png" alt="Oracle OCI 2025 Foundations Associate" style="width:120px; max-width:100%; height:auto;" />
+        <a href="https://www.coursera.org/account/accomplishments/verify/89P7HFI2TS0K?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
+          <img src="./badges/node_badge.png" alt="Backend Apps with Node and Express" style="width:120px; max-width:100%; height:auto;" />
         </a>
       </td>
     </tr>
     <tr>
       <!-- Text Row -->
       <td align="center" valign="top">
-        July 2025 <br/>
+        June 2025 <br/>
         <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
       </td>
       <td align="center" valign="top">
-        July 2025 <br/>
+        June 2025 <br/>
         <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Credential</a><br/>
       </td>
       <td align="center" valign="top">
-        July 2025 <br/>
+        June 2025 <br/>
         <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
       </td>
       <td align="center" valign="top">
-        July 2025 <br/>
+        June 2025 <br/>
         <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
       </td>
       <td align="center" valign="top">
-        August 2025 <br/>
+        June 2025 <br/>
+        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">Credential</a><br/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<!-- ML Certifications -->
+<h2 align="center">Machine Learning Certifications</h2>
+
+<div align="center">
+  <table style="width:100%; table-layout:fixed;">
+    <colgroup>
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+      <col style="width:16.66%">
+    </colgroup>
+    <tr>
+      <!-- Icon Row -->
+      <td align="center">
+        <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/9YNFJCGFDNAI">
+          <img src="./badges/ml_badge.png" alt="Machine Learning Professional Certificate" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.coursera.org/account/accomplishments/records/GN9KV30HCHRZ">
+          <img src="./badges/eda_badge.png" alt="Exploratory Data Analysis for ML" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.coursera.org/account/accomplishments/records/E1RW43VAAZ1L">
+          <img src="./badges/dl_badge.png" alt="Deep Learning and Reinformcement Learning" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.coursera.org/account/accomplishments/records/S95IH3UCDTTY">
+          <img src="./badges/sup_badge.png" alt="Supervised ML: Classification" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.coursera.org/account/accomplishments/records/WZWSVSO5WOAR">
+          <img src="./badges/uns_badge.png" alt="Unsupervised ML" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Text Row -->
+      <td align="center" valign="top">
+        Feb 2026 <br/>
+        <a href="https://www.credly.com/badges/39dc7ebd-4c71-4b7b-87a2-d2522dbd24fd/public_url">Credential</a><br/>
+      </td>
+      <td align="center" valign="top">
+        Feb 2026 <br/>
+        <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Credential</a><br/>
+      </td>
+      <td align="center" valign="top">
+        Feb 2026 <br/>
+        <a href="https://www.credly.com/badges/47d30a2e-4695-4a34-ae8e-46739c3bcd27/public_url">Credential</a><br/>
+      </td>
+      <td align="center" valign="top">
+        Feb 2026 <br/>
+        <a href="https://www.credly.com/badges/9bf9fc83-69c6-4d69-8230-49b0cf51a22b/public_url">Credential</a><br/>
+      </td>
+      <td align="center" valign="top">
+        Feb 2026 <br/>
         <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9F23EA9CDABD0403F2F461CCAE25400C9A6CA4C8B5529CF1E5AB80E75BB3C0FC">Credential</a><br/>
       </td>
     </tr>
